@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "1.0.0",
-      "URL": "https://github.com/buccaneer-jak/ESP32_OTA_Pull/blob/main/ESP32_OTA_Pull.ino.bin"
+      "URL": "https://raw.githubusercontent.com/buccaneer-jak/ESP32_OTA_Pull/blob/main/ESP32_OTA_Pull.ino.bin"
     }
   ]
 }
